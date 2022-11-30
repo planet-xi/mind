@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>What Did Satoshi Nakamoto Invent? | pixelhack</title>
+
+	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+
+	</head>
+
+<body>
+
+
+<div class="container">
+	<header>
+  <nav class="nav">
+    <a class="nav-title" href="https://pixelhack.xyz/">
+      pixelhack
+    </a>
+
+    <div class="nav-links">
+      
+        <a href="https://twitter.com/pixelhacks">twitter</a>
+      
+    </div>
+  </nav>
+</header>
+	<main class="content">
+
+<div class="post">
+  <h1 class="post-title">What Did Satoshi Nakamoto Invent?</h1>
+
+  <p>What Satoshi invented wasn’t a new internet money; Satoshi showed the world how we can have one high-integrity, incorruptible database without any admin. Technically, this kind of database can hold any data, but one current killer app is money, hence Bitcoin. Nobody argues about who owns how much Bitcoin; nobody argues about whether this or that transaction is legit; nobody can delete anyone’s Bitcoin. The data is inspectable by anyone, and the database is writable by anyone with sufficient Bitcoin.</p>
+
+<p>A technical analogy: Bitcoin is like a Git repository with built-in incentive to protect its integrity. A coder who pulls a Git repository from upstream will have the same code as everyone else. To submit a patch upstream, which basically means performing a write action to the repository, the patch must be approved by the project maintainer. A repository where anyone could submit a patch would be a mess; the integrity of the repository is protected by the maintainer. Bitcoin is like a Git repository which contains everyone’s money, where anyone can submit a patch upstream, without any maintainer approving or rejecting the patches, while still keeping its integrity intact.</p>
+
+<p>What Satoshi announced in the Bitcoin whitepaper was this: “Let’s create a system where anyone can read, write, and approve write to the database. Democratizing the power to approve write means there’s no more admin, and we can do it by using a mechanism called Proof-of-Work. Currently, the simplest, highest value thing we can build with this system is money. Let’s call that Bitcoin.”</p>
+
+<p>The whole system is often called Nakamoto Consensus. It’s a seminal contribution to the world.</p>
+
+
+  
+
+  <p datetime=" 2022-07-17T16:04:54&#43;07:00" class="post-date">
+    July 17, 2022
+  </p>
+
+  
+  
+</div>
+
+</main>
+	
+
+
+
+</div>
+
+</body>
+</html>
