@@ -1,2 +1,2 @@
-# selfdev.github.io/index.html
-# style.css
+# Hey there,
+# Wecome to my blog
