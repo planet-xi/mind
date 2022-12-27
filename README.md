@@ -1,2 +1,3 @@
-# selfdev.github.io/index.html
-# style.css
+# Hey there
+## Welcome to my blog,
+ ktg j
