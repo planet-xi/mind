@@ -1,3 +1,3 @@
 # Hey there
-## Welcome to my blog,
- ktg j
+## Welcome
+## Some thoughts how i think
