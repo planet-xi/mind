@@ -181,19 +181,6 @@ hr {
 @media (min-width: 600px) {
   html {
     font-size: 11.5px; } }
-.pagination a {
-  color: black;
-  float: left;
-  padding: 8px 16px;
-  text-decoration: none;
-  transition: background-color .3s;
-}
 
-.pagination a.active {
-  background-color: dodgerblue;
-  color: white;
-}
-
-.pagination a:hover:not(.active) {background-color: #ddd;}
 
 /*# sourceMappingURL=style.css.map */
