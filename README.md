@@ -1,8 +1,5 @@
-# About me
+#A Blog consists of my thinking
 
-## Welcome to my blog
-
-Why i created this?
-<p>
-## Some thoughts how i think
-- A Blog 
+- ideas
+- thinking
+- mental modals
