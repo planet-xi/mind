@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Libre Barcode 128
+- Font Author: Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)
+- Font Source: http://fonts.gstatic.com/s/librebarcode128/v26/cIfnMbdUsUoiW3O_hVviCwVjuLtXeJ_A_gMk0izH.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
