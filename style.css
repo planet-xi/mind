@@ -182,5 +182,14 @@ hr {
   html {
     font-size: 11.5px; } }
 
+.dark-mode {
+            background-color: black;
+            color: white;
+        }
+ 
+.light-mode {
+            background-color: white;
+            color: black;
+        }
 
 /*# sourceMappingURL=style.css.map */
